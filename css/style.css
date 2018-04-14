@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Rokkitt', serif;
+	background: #38776f;
+}
+header{
+width: 100%;
+display:flex;
+justify-content: center;
+}
+.mainlogo{
+	width: 280px;		
+	height: 85px;	
+}
+#bodyimage{
+width: 50%;
+height: 80%;
+}
